@@ -1,24 +1,8 @@
-# README
+# ウィッシュリスト(買いものリスト) - 開発中
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 必要な機能
+* ログイン/ログアウト機能
+* 購入したいものの追加
+* 予算、重要度、urlを持つ
+* それぞれの要素でソートして表示
+* 購入したものは購入済リストに移動
